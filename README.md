@@ -1,11 +1,11 @@
 # credit-risk-classification
 Module 20 HW
 
-#Overview
+# Overview
 The purpose of this analysis is to create a machine learning model that predicts healthy loan versus high risk loans based on application data. The criteria include loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, and total debt. 
 
 
-#Model Performance
+# Model Performance
 *  Accuracy - The accuracy of the model was 94% prior to oversampling and 99% after oversampling.
 *  Precision - The precision for the model was good for identifying healthy loans, but significantly less performant when identifying high risk loans. With oversampling the latter result improved significantly. 
 *  Recall -The recall for the model was good for identifying healthy loans, but significantly less performant when identifying high risk loans. With oversampling the latter result improved significantly. 
